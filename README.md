@@ -11,9 +11,9 @@ Let's see what happens under the hood when running gradient descent on different
 Python
 
 ### IDE 
-Jupyter notebook (IPython)
+Jupyter Notebook (IPython)
 
-### How to use it (the way I do)
+### How to use it (the way I do when learning something new)
 1. Install required packages and tools.
 2. Fork this repository to have your own copy.
 3. Clone this copy on your local system.
