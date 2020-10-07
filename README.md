@@ -23,9 +23,15 @@ Jupyter Notebook (IPython)
 ### Important notice
 I have focused on making the code simple, readable and easily modifiable.  It is not optimized and omits desirable features.
 
-So let's start off by analysing a very basic gradient descent algorithm:
+So let's start off by analyzing a very basic gradient descent algorithm, applied on a small simple linear regression example.
 
 
+
+
+
+The gradient descent is an iterative algorithm that converges to the answer by taking steps in the direction of the gradient of this function.
+
+A gradient is the vector of partial derivatives and it points to the direction of maximum increase of the function (steepest ascent) because of its nature of being perpendicular to the tangent lines of the function contour lines at each of its points. The magnitude of the gradient is the value of the maximum directional derivative at some point.
 
 Let's see what happens under the hood when running gradient descent on different models.
 
